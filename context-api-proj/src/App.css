@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.app {
+  text-align: center;
+  height: 200px  ;
+  line-height: 200px;
+  margin:0,auto;
+}
+.buttonClass{
+  text-align: center;
+}
+
+button{
+  border-radius: 20px;
+  padding: 10px;
+  font-weight: 700;
+}
+.dark-theme {
+  background-color: #333333;
+  color: whitesmoke;
+}
+.light-theme {
+  background-color: lightgray;
+  margin:0,auto;
+}
